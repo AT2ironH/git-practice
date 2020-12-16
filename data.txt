@@ -1,3 +1,4 @@
 Name: Aleksandar Trifunovic
 Age: 31
-Favorite color: Green
+Favorite color: Green 
+Dogs are good
